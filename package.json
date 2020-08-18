@@ -1,0 +1,22 @@
+{
+    "name": "ample",
+    "displayName": "ample",
+    "description": "Ample color theme for VSCode",
+    "publisher": "joeshaw",
+    "version": "0.1.0",
+    "engines": {
+        "vscode": "^1.34.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Ample",
+                "uiTheme": "vs-dark",
+                "path": "./themes/ample.color-theme.json"
+            }
+        ]
+    }
+}
