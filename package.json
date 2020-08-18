@@ -3,7 +3,7 @@
     "displayName": "Ample Color Theme",
     "description": "Ample color theme for VSCode",
     "publisher": "joeshaw",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "license": "SEE LICENSE IN LICENSE",
     "engines": {
         "vscode": "^1.34.0"
